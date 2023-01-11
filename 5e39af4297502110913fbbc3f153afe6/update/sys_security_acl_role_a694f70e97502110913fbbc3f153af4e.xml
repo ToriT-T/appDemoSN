@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 21:17:36</sys_created_on>
+        <sys_id>a694f70e97502110913fbbc3f153af4e</sys_id>
+        <sys_name>x_772166_appdemosn_exampletable.x_772166_appdemosn.admin</sys_name>
+        <sys_package display_value="appDemoSN" source="x_772166_appdemosn">5e39af4297502110913fbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appDemoSN">5e39af4297502110913fbbc3f153afe6</sys_scope>
+        <sys_security_acl display_value="x_772166_appdemosn_exampletable">2694f70e97502110913fbbc3f153af4c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a694f70e97502110913fbbc3f153af4e</sys_update_name>
+        <sys_user_role display_value="x_772166_appdemosn.admin" name="x_772166_appdemosn.admin">d639af4297502110913fbbc3f153afeb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
