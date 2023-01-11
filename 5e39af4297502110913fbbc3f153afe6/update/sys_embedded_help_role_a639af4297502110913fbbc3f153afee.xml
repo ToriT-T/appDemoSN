@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_772166_appdemosn.admin" name="x_772166_appdemosn.admin">d639af4297502110913fbbc3f153afeb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 20:27:54</sys_created_on>
+        <sys_id>a639af4297502110913fbbc3f153afee</sys_id>
+        <sys_name>d639af4297502110913fbbc3f153afeb</sys_name>
+        <sys_package display_value="appDemoSN" source="x_772166_appdemosn">5e39af4297502110913fbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appDemoSN">5e39af4297502110913fbbc3f153afe6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a639af4297502110913fbbc3f153afee</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

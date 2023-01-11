@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_772166_appdemosn.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 20:27:54</sys_created_on>
+        <sys_id>2a39af4297502110913fbbc3f153affd</sys_id>
+        <sys_name>x_772166_appdemosn.user</sys_name>
+        <sys_package display_value="appDemoSN" source="x_772166_appdemosn">5e39af4297502110913fbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appDemoSN">5e39af4297502110913fbbc3f153afe6</sys_scope>
+        <sys_update_name>sys_user_role_2a39af4297502110913fbbc3f153affd</sys_update_name>
+    </sys_user_role>
+</record_update>
